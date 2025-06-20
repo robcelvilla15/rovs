@@ -106,6 +106,12 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire'
+        },
+        {
+          icon: 'mdi-login',
+          title: 'login',
+          to: '/signin'
+
         }
       ],
       miniVariant: false,
